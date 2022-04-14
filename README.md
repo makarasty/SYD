@@ -2,7 +2,7 @@
 Ето "Макет" будущей программы, язык пока только украинский, баг фиксы врятли будут наблюдаться!\n
 
 УСТАНОВКА:
-<span>1
+<p>1
 apt update
 pkg install npm
 apt install coreutils
@@ -15,4 +15,4 @@ npm install snekfetch
 npm install prompt-sync
 npm install async-limiter
 
-БЕТА ТЕСТ</span>
+БЕТА ТЕСТ</p>

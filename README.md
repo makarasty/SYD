@@ -1,17 +1,17 @@
 # BETA_MaketStatusDiscord
-Ето "Макет" будущей программы, язык пока только украинский, баг фиксы врятли будут наблюдаться!
+Ето "Макет" будущей программы, язык пока только украинский, баг фиксы врятли будут наблюдаться!\n
 
-УСТАНОВКА:
-apt update
-pkg install npm
-apt install coreutils
-npm install nodejs
-npm install pm2 -g
-npm install ws
-npm install long
-npm install colors 
-npm install snekfetch
-npm install prompt-sync
-npm install async-limiter
+УСТАНОВКА:\n
+apt update\n
+pkg install npm\n
+apt install coreutils\n
+npm install nodejs\n
+npm install pm2 -g\n
+npm install ws\n
+npm install long\n
+npm install colors\n
+npm install snekfetch\n
+npm install prompt-sync\n
+npm install async-limiter\n
 
-БЕТА ТЕСТ
+БЕТА ТЕСТ\n

@@ -2,7 +2,7 @@
 Ето "Макет" будущей программы, язык пока только украинский, баг фиксы врятли будут наблюдаться!\n
 
 УСТАНОВКА:
-<space>1</space>
+<p>1</p>
 apt update
 pkg install npm
 apt install coreutils

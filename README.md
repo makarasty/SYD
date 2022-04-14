@@ -2,17 +2,17 @@
 Ето "Макет" будущей программы, язык пока только украинский, баг фиксы врятли будут наблюдаться!\n
 
 УСТАНОВКА:
-<p>1
-apt update
-pkg install npm
-apt install coreutils
-npm install nodejs
-npm install pm2 -g
-npm install ws
-npm install long
-npm install colors
-npm install snekfetch
-npm install prompt-sync
-npm install async-limiter
 
-БЕТА ТЕСТ</p>
+<p>apt update</p>
+<p>pkg install npm</p>
+<p>apt install coreutils</p>
+<p>npm install nodejs</p>
+<p>npm install pm2 -g</p>
+<p>npm install ws</p>
+<p>npm install long</p>
+<p>npm install colors</p>
+<p>npm install snekfetch</p>
+<p>npm install prompt-sync</p>
+<p>npm install async-limiter</p>
+
+БЕТА ТЕСТ

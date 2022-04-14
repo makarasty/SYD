@@ -4,15 +4,15 @@
 # УСТАНОВКА:
 
 - `apt update`
-- `pkg install npm`
-- `apt install coreutils`
-- `npm install nodejs`
-- `npm install pm2 -g`
-- `npm install ws`
-- `npm install long`
-- `npm install colors`
-- `npm install snekfetch`
-- `npm install prompt-sync`
-- `npm install async-limiter`
+- `pkg i npm`
+- `apt i coreutils`
+- `npm i nodejs`
+- `npm i pm2 -g`
+- `npm i ws`
+- `npm i long`
+- `npm i colors`
+- `npm i snekfetch`
+- `npm i prompt-sync`
+- `npm i async-limiter`
 
 # БЕТА ТЕСТ
